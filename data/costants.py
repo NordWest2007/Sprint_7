@@ -1,0 +1,10 @@
+class Constants:
+    BASE_URL = 'https://qa-scooter.praktikum-services.ru/'
+    CREATE_COURIER_URL = 'api/v1/courier'
+    DELETE_COURIER_URL = 'api/v1/courier/'
+    GET_COURIER_ID_URL = 'api/v1/courier/login'
+    CREATE_ORDER_URL = 'api/v1/orders'
+    DELETE_ORDER_URL = 'api/v1/orders/cancel'
+    GET_ORDER_TRACK_URL = 'api/v1/orders/track'
+    ACCEPT_ORDER_URL = 'api/v1/orders/accept/'
+    GET_ORDER_BY_ID = 'api/v1/orders/track'
